@@ -1,38 +1,49 @@
-body {
-    background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB);
-    background-size: 400% 400%;
-    animation: gradientBG 15s ease infinite;
+/* ============================= */
+/* ===== Allgemeine Styles ===== */
+/* ============================= */
+
+/* Dein Code */
+
+/* ======================================= */
+/* ===== Section 1: Navigationszeile ===== */
+/* ======================================= */
+
+/* Dein Code */
+
+/* ================================ */
+/* ===== Section 2: Überblick ===== */
+/* ================================ */
+
+/* Dein Code */
+.section-style-2 {
+  background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB);
+    color: rgb(2, 241, 142);
   }
 
-  @keyframes gradientBG {
-    0% {
-      background-position: 0% 50%;
-    }
-    50% {
-      background-position: 100% 50%;
-    }
-    100% {
-      background-position: 0% 50%;
-    }
-  }
-  
-  h1 {
-    color: rgb(0, 0, 0);
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    text-align: center;
+  .btn {
+    width: 200%;
   }
 
-  p1 {
-    color: rgb(5, 48, 48);
-    text-align: center;
-    font-family: fantasy;
-  }
+/* =============================== */
+/* ===== Section 3: Features ===== */
+/* =============================== */
 
-  p2 {color: rgb(5, 48, 48);
-    text-align: center;
-    font-family: fantasy;
-  }
-  
-  img {
-    width: 450px;
-  }
+/* Dein Code */
+
+/* ================================== */
+/* ===== Section 4: Bewertungen ===== */
+/* ================================== */
+
+/* Dein Code */
+
+/* ============================= */
+/* ===== Section 5: Preise ===== */
+/* ============================= */
+
+/* Dein Code */
+
+/* ============================= */
+/* ===== Section 6: Footer ===== */
+/* ============================= */
+
+/* Dein Code */
